@@ -1,0 +1,185 @@
+
+
+
+.contenedor_flexible{
+display:flex;
+/* border:1px solid red; */
+/* flex-wrap:wrap; */
+/* justify-content:space-around; */
+
+}
+
+
+.Content_header{
+    /* color:black; */
+/* width:1300px; */
+width:80%;
+height:50px;
+margin:auto;
+align-items:center;
+/* border:1px solid red; */
+justify-content:space-between;
+justify-content:space-around;
+justify-items:center;
+/* justify-content:stretch; */
+/* gap:200px; */
+/* gap:200px; */
+
+
+/* border:1px solid red; */
+}
+
+.Content_header button{
+/* border:1px solid grey; */
+/* background-color:; */
+}
+
+.content_logo{
+/* width:200px; */
+/* height:60px; */
+align-items:center;
+/* color:black; */
+
+/* background-color:#111; */
+
+}
+
+ .btn_menu_header{
+}
+
+
+/* //////////////////////////////////////////////// */
+.contenedor_organizador{
+/* border:1px solid rgb(230, 32, 32); */
+}
+
+
+.imagen_logo{
+
+width:100%;
+height:100%;
+background-color:rgb(255, 255, 255);
+/* background-color:black; */
+/* opacity:0.3; */
+/* border:1px solid red; */
+
+}
+
+
+
+.Formulario_header{
+/* flex-grow:2; */
+width:70%;
+/* width:500px; */
+/* min-width:5%; */
+
+/* max-width:20%; */
+/* max-width:40%; */
+display:flex;
+/* justify-content:stretch; */
+/* border:1px solid red; */
+}
+
+
+.contenedor_logo{
+width:100%;
+/* background-color: black; */
+/* border:1px solid;/ */
+/* max-width:100%; */
+}
+
+
+.Input_header{
+/* width:50%; */
+width:80%;
+
+/* min-width:5%; */
+height:41px;
+border-radius:1.2em 0em 0em 1.2em;
+border:0.4px solid rgba(128, 128, 128, 0.607);
+outline:none;
+/* background-color: red; */
+box-sizing:border-box;
+/* display:inline-flex; */
+/* background-color:#333; */
+}
+
+
+
+
+.Input_header::placeholder{
+transform:translateX(11px);
+
+}
+
+
+.btn_formulario{
+height:40px;
+border:none;
+/* border:0.4px solid grey; */
+/* width:100px; */
+/* background-color:red; */
+}
+
+.btn_buscar{
+    /* z-index:2; */
+/* position: absolute; */
+
+/* display:none; */
+/* flex-shrink:1; */
+}
+
+
+.btn_microfono{
+/* width: 90px; */
+/* height:40px; */
+/* border-radius:10em; */
+
+border:none;
+/* border:1px solid red; */
+box-sizing:border-box;
+opacity:0.5;
+/* border:1px solid red; */
+
+/* flex-grow:0.4; */
+/* flex-shrink:1; */
+/* background-color:rgba(0, 0, 0, 0.658); */
+
+}
+
+.btn_microfono>img{
+width:100%;
+height:100%;
+
+/* border:1px solid red; *btn/
+
+}
+
+
+.Contenedor_Aciones{
+/* width:300px; */
+/* justify-items:center; */
+/* flex-shrink:1; */
+/* justify-content:space-evenly; */
+/* justify-content:space-between; */
+/* margin-right:0; */
+/* border:1px solid red; */
+/* display:none; */
+
+}
+
+.Contenedor_Aciones img{
+/* filter: invert() sepia(29%) saturate(45%) hue-rotate(10%) opacity(10%) brightness() contrast();  */
+/* background-color: black; */
+background-color:#999;   
+
+
+}
+
+/* modal */
+
+
+/* se trata de entender el codigo y configurarlo  ya tengo la base que sabes de que se trata si no buscas  */
+
+
+/*y se todo lo que hay que hacerle  a un proyecto de programacion la idea es ir acciendolo para ver si puedo culminar el proyecto  */
