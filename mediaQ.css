@@ -1,0 +1,270 @@
+@media(max-width:960px) {
+/* cabezera resposivaa */
+
+.Content_header{
+/* width:100%; */
+margin:0 auto;
+
+/* justify-content:center; */
+/* justify-content:space-between; */
+
+border:none;
+
+/*  */
+}
+
+
+.btn_buscar{
+ border-radius:0 !important;
+border:none;
+background-color:#111!important;
+filter:var(0);
+/* width:10px; */
+}
+
+
+.Content_video{
+width:350px;
+border-radius:0.5em;
+
+/* width:350px; */
+border:none;
+}
+
+
+
+
+}
+
+
+
+
+
+
+@media (max-width:830px){
+
+.Contenedor_videos{
+ width:100%; 
+
+}
+
+
+
+}
+
+
+
+
+
+@media (max-width:760px) {
+
+.Contenedor_videos{
+width:100%;
+/* justify-content:center; */
+/* background-color:red; */
+/* gap:20px; */
+
+/* border:1px solid red; */
+}
+
+.Content_video{
+/* width:100%; */
+width:300px;
+
+
+
+}
+.Conten{
+width:500px;
+}
+
+
+
+.Input_header{
+/* width:40%; */
+/* max-width:10%; */
+/* display:none; */
+/* width:500px; */
+}
+
+.btn_buscar{
+/* display:none; */
+/* border:1px solid wheat; */
+/* background-color:red; */
+/* width:10px; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+@media (max-width:600px) {
+
+
+
+
+
+
+
+    
+.Contenedor_videos{
+width:100%;
+/* position:relative; */
+
+/* border:1px solid red;
+background-color:yellow; */
+/* margin:0 auto; */
+}
+
+.Content_video{
+width:100%;
+/* height:250px; */
+
+/* margin-top:5em;
+border-radius:0;
+border:0; */
+
+}
+
+
+.imagen_perfil{
+width:50px;
+border-radius:none;
+/* margin-right:0.4em; */
+}
+
+
+
+.Content_video>img{
+    /* height:70%; */
+/* position: absolute; Paso 2: Posicionamiento absoluto */
+  /* top: 0; */
+  /* left: 0; */
+  /* width: 100%;       /* Se adapta al ancho del contenedor * */
+   /* height: 100%;      Se adapta al alto del contenedor */ */
+  /* object-fit: cover; */
+} 
+
+
+
+
+/* .Formulario_header{
+    /* width:800px; */
+    /* width:0; */
+    /* flex-shrink:1; */
+    /* justify-content: initial; *
+
+    /* justify-content: stretch; */
+
+
+.Formulario_header{
+/* flex-grow:2; */
+/* width:20%; */
+
+/* width:30%; */
+/* min-width:30%; */
+/* max-width:40%; */
+ 
+/* max-width:20%;
+min-width:10%; */
+
+/* display:; */
+/* justify-content:stretch; */
+/* border:1px solid red; */
+}
+
+.block{
+    display:block;
+}
+
+
+.Input_header{
+width:40%;
+/* max-width:10%; */
+/* display:none; */
+
+/* width:100%; */
+/* position:absolute; */
+/* gap:0; */
+/* width:100%; */
+/* display:block; */ 
+/* border:1px solid white; */
+border:1px solid red;
+/* background-color:red; */
+/* justify-content:stretchS; */
+/* justify-content:center; */
+/* justify-content:space-between; */
+/* justify-content:space-evenly; */
+
+}
+
+.Input_header{
+/* width:100%; */
+/* position:absolute; */
+/* left:0; */
+/* min-width:5%; */
+/* height:41px;
+border-radius:1.2em 0em 0em 1.2em;
+border:0.4px solid rgba(128, 128, 128, 0.607);
+outline:none; */
+/* background-color: red; */
+
+box-sizing:border-box;
+/* display:inline-flex; */
+/* background-color:#000; */
+z-index:1;
+/* display:none; */
+/* display:none; */
+}
+
+ 
+
+.Contenedor_Aciones{
+/* display:none; */
+}
+
+.Contenedor_Aciones>div{
+/* width:3px; */
+/* margin:0; */
+}
+
+}
+/* observacion 
+con los proyectos puedo darme cuenta que habilidades entiendo y comprendo mejor  
+
+enfrentarme a cosas
+puede que no sepa que no se algo  y necesariamente no tengo que fustrarme si no tratar de volver a estudiarlo y aprenderlo bien para eso 
+son los proyectos   para lo que no se  hacerlo conciente y mejorarlo no hay que hacerlo de la mente
+simplemente con saber lo que tengo que buscar 
+
+*/
+
+
+
+
+/* estoy haciendo proyectos para confirmar que ya puedo trabajar y poner en practica los concepto */
+/* y para aprender hacer no con que*/ç
+
+
+/* lo que haces investigando y buscando es como trabajan los programadores  una persona que no hizo cursos no puede saber 
+nada porque  se topa con lo que tiene que investigar no se le haria facil crear eso porque no entenderia nada 
+

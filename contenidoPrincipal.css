@@ -1,0 +1,114 @@
+
+/* la dudas  que me hace sentir mal  es que si no recuerdo algo  pienso que no estoy listo y creo que tengo que tomar un curso que ya tomr
+pero no,  es falta de practica  y buscar lo que necesitas esta bien
+*/
+.Contenedor_videos{
+
+/* width:85%; */
+width:75%;
+margin:2px auto;
+/* margin-right:0; */
+display:flex;
+flex-wrap:wrap;
+/* justify-content:right; */
+gap:10px;
+/* flex-direction:row; */
+/* border:1px solid red; */
+justify-content:right;
+
+}
+
+
+.Content_video{
+width:350px;
+/* min-width:200px; */
+/* max-width:100%; */
+border-radius:0.5em;
+cursor:pointer;
+margin-top:0px;
+
+/* border:1px solid red; */
+}
+
+
+.element-video{
+width:100%;
+height:200px;
+/* border:20px; */
+object-fit:cover;
+border-radius:0.5em;
+/* border: 1px solid red; */
+
+}
+
+.element-video:hover{
+border-radius:0;
+}
+
+
+.modificador_titulo{
+/* width:395px; */
+/* height:400px; */
+align-items:center;
+font-weight:bolder;
+
+color:rgba(128, 128, 128, 0.644);
+/* color: red; */
+/* background-color: brown/; */
+}
+
+
+
+
+
+.imagen_perfil{
+width:50px;
+border-radius:100%;
+margin-right:0.4em;
+}
+
+
+.contenido_video{
+align-items: center;
+
+/* margin-top:0.5em; */
+/* border:1px solid grey; */
+}
+
+.video_controles{
+position: absolute;
+top:0;
+right:0;
+/* display:none; */
+}
+
+
+
+
+.oculto{
+/* visibility: hidden; */
+display: none;
+/* opacity:1; */
+}
+
+/* .visible{
+display:block;
+} */
+
+
+
+
+/* video reproduciendose */
+
+
+.videoReproducido{
+width:100%;
+height:auto;
+}  
+
+.sentinel{
+height:200px;
+visibility:hidden;
+border:1px solid green; 
+
+}
