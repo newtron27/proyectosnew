@@ -137,13 +137,13 @@ margin:auto;
 align-items:initial;
 /* border:1px solid red; */
 /* justify-content:space-between; */
-justify-content:initial;
+justify-content:center;
 justify-items:center;
 /* justify-content:stretch; */
 /* gap:200px; */
 /* gap:200px; */
 
-background-color:red;
+background-color:yellow;
 /* border:1px solid red; */
 }
 
