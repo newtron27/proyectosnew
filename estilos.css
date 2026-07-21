@@ -92,7 +92,6 @@ width:100%;
 .Input_header{
 /* width:50%; */
 width:80%;
-
 /* min-width:5%; */
 height:41px;
 border-radius:1.2em 0em 0em 1.2em;
@@ -150,21 +149,6 @@ opacity:0.5;
 .btn_microfono>img{
 width:100%;
 height:100%;
-
-/* border:1px solid red; *btn/
-
-}
-
-
-.Contenedor_Aciones{
-/* width:300px; */
-/* justify-items:center; */
-/* flex-shrink:1; */
-/* justify-content:space-evenly; */
-/* justify-content:space-between; */
-/* margin-right:0; */
-/* border:1px solid red; */
-/* display:none; */
 
 }
 
