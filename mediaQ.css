@@ -121,22 +121,17 @@ width:500px;
 
 
 
-
-
-
-
-    
 .Contenedor_videos{
 width:100%;
-/* position:relative; */
 
-/* border:1px solid red;
-background-color:yellow; */
-/* margin:0 auto; */
+
+
+
 }
 
 .Content_video{
 width:100%;
+
 /* height:250px; */
 
 /* margin-top:5em;
@@ -149,31 +144,20 @@ border:0; */
 .imagen_perfil{
 width:50px;
 border-radius:none;
+
 /* margin-right:0.4em; */
+
 }
 
 
 
 .Content_video>img{
-    /* height:70%; */
-/* position: absolute; Paso 2: Posicionamiento absoluto */
-  /* top: 0; */
-  /* left: 0; */
-  /* width: 100%;       /* Se adapta al ancho del contenedor * */
-   /* height: 100%;      Se adapta al alto del contenedor */ */
-  /* object-fit: cover; */
+ 
 } 
 
 
 
 
-/* .Formulario_header{
-    /* width:800px; */
-    /* width:0; */
-    /* flex-shrink:1; */
-    /* justify-content: initial; *
-
-    /* justify-content: stretch; */
 
 
 .Formulario_header{
@@ -199,41 +183,22 @@ min-width:10%; */
 
 .Input_header{
 width:40%;
-/* max-width:10%; */
-/* display:none; */
+display:none;
 
-/* width:100%; */
-/* position:absolute; */
-/* gap:0; */
-/* width:100%; */
-/* display:block; */ 
-/* border:1px solid white; */
+
+
 border:1px solid red;
-/* background-color:red; */
-/* justify-content:stretchS; */
-/* justify-content:center; */
-/* justify-content:space-between; */
-/* justify-content:space-evenly; */
 
 }
 
 .Input_header{
-/* width:100%; */
-/* position:absolute; */
-/* left:0; */
-/* min-width:5%; */
-/* height:41px;
-border-radius:1.2em 0em 0em 1.2em;
-border:0.4px solid rgba(128, 128, 128, 0.607);
-outline:none; */
-/* background-color: red; */
+
 
 box-sizing:border-box;
-/* display:inline-flex; */
-/* background-color:#000; */
+
+
 z-index:1;
-/* display:none; */
-/* display:none; */
+
 }
 
  
