@@ -43,6 +43,15 @@ border:none;
 
 @media (max-width:830px){
 
+
+
+
+
+
+
+
+
+
 .Contenedor_videos{
  width:100%; 
 
@@ -119,7 +128,24 @@ width:500px;
 
 @media (max-width:550px) {
 
+.Content_header{
+    /* color:black; */
+/* width:1300px; */
+width:80%;
+height:50px;
+margin:auto;
+align-items:initial;
+/* border:1px solid red; */
+/* justify-content:space-between; */
+justify-content:initial;
+justify-items:initial;
+/* justify-content:stretch; */
+/* gap:200px; */
+/* gap:200px; */
 
+
+/* border:1px solid red; */
+}
 
 .Contenedor_videos{
 width:100%;
